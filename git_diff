@@ -1,0 +1,2 @@
+git diff --staged  -> 1.What changes have I staged that are ready to be committed?
+git diff           -> 2.What changes have I made but not yet staged?

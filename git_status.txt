@@ -1,0 +1,28 @@
+git status -> show state of our project at this particular point in time
+
+Example:
+        git status
+        
+	On branch master
+
+	No commits yet
+
+	Changes to be committed:
+	  (use "git rm --cached <file>..." to unstage)
+		new file:   git_add.txt
+		new file:   git_status.txt
+
+	Changes not staged for commit:
+	  (use "git add <file>..." to update what will be committed)
+	  (use "git restore <file>..." to discard changes in working directory)
+		modified:   git_status.txt
+
+Example:
+
+	git status --short
+	
+	A  git_add.txt
+	AM git_status.txt
+	?? git_diff
+
+
