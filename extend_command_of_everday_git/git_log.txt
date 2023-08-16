@@ -1,0 +1,4 @@
+git log 
+git log --stat
+git log --patch 
+git log --oneline
