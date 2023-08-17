@@ -1,0 +1,5 @@
+git reser --soft -->  moving the changes to the staging area(index) (from .git Dİrectory(Repository) to Staging Area(Index))
+
+git reset --mixed --> moving changesback to the working directory (from .git Directory)
+
+git reset --hard --> move the changes to the trash
