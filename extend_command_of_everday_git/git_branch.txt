@@ -1,0 +1,11 @@
+git checkout -b new_branch
+
+-Add new file
+-Try to checkout again master branch without commiting the file.
+-Gİt gives error messages "Please moce or remove them before you switch branches."
+
+git add .
+git stash  -> stash the changes to record a current state of the working directory and staging area
+git stash list -> provide us with a list of work-in*progress changes 
+git stash show
+git stash pop -> change wpuld be dropped back into your working directory
